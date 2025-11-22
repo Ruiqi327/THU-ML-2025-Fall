@@ -1,4 +1,4 @@
-# 机器学习课程项目（2025 Fall, THU）
+# 机器学习课程项目&作业（2025 Fall, THU）
 
 ## Project 1: 从零实现KNN和SVM
 

@@ -19,7 +19,7 @@ Step2: 创建环境并安装所需要的库
 ```
 conda create -n ml_hw1 python==3.10
 conda activate ml_hw1
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Step3: 运行生成数据集代码

@@ -58,3 +58,18 @@ split_gcn_lpa.py:为GCN和LPA创建所需要的数据集
 ```
 
 Step4: 依次运行models里面的模型代码。结果将会保存在同级目录下的./result中
+
+### 部分补充的实验结果
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/d76a2fbd-218c-4cc9-935c-53622a824bdc" />
+MLP在OGBN-proteins数据集上的训练曲线
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/34ddc000-3ba4-41bb-bdf4-a9b4b9eeed6f" />
+MLP在OGBN-arxiv数据集上的训练曲线
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/591bbd3d-9584-4ac6-8e03-6803415cfaeb" />
+GCN在OGBN-proteins数据集上的训练曲线
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/1c63af0d-7877-46f7-bdb2-656a91a62e07" />
+GCN在OGBN-arxiv数据集上的训练曲线
+
